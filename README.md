@@ -69,5 +69,20 @@ How to create and manage a cosmos db
 
   ![image](https://user-images.githubusercontent.com/105960409/172488643-8c1dbbf7-0a57-4cf9-8805-6787ac7dc435.png)
 
+**Create a CosmosDB query**
 
+  1) Click on the "Create SQL query" button in the top bar inside of the action window
+
+  ![image](https://user-images.githubusercontent.com/105960409/172490289-130f8a5d-f130-41a0-a783-11824788e4d5.png)
+
+  2) A command line will appear with the basics for the query automatically added: 
+
+  ![image](https://user-images.githubusercontent.com/105960409/172490376-72211ac5-913d-4ad2-aca9-d5fbb54c7dec.png)
+
+  3) Modify the query as needed and click "Execute query", the result will appear in the bottom of the command line
+
+  ![image](https://user-images.githubusercontent.com/105960409/172490812-b11e7452-14d3-499a-ad87-febcabca74ae.png)
+
+
+  
   
