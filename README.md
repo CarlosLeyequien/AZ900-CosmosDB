@@ -81,7 +81,7 @@ How to create and manage a cosmos db
 
   3) Modify the query as needed and click "Execute query", the result will appear in the bottom of the command line
 
-  ![image](https://user-images.githubusercontent.com/105960409/172490812-b11e7452-14d3-499a-ad87-febcabca74ae.png)
+  ![image](https://user-images.githubusercontent.com/105960409/172491087-4d276f0f-bb35-4a58-a88e-90d3bb021488.png)
 
 
   
